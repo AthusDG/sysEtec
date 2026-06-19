@@ -1,0 +1,17 @@
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\bin\Debug\net9.0-windows\Sysetec.exe
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\bin\Debug\net9.0-windows\Sysetec.deps.json
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\bin\Debug\net9.0-windows\Sysetec.runtimeconfig.json
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\bin\Debug\net9.0-windows\Sysetec.dll
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\bin\Debug\net9.0-windows\Sysetec.pdb
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.Frmprincipal.resources
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.csproj.GenerateResource.cache
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.AssemblyInfoInputs.cache
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.AssemblyInfo.cs
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.sourcelink.json
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.dll
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\refint\Sysetec.dll
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.pdb
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\Sysetec.genruntimeconfig.cache
+C:\Users\TEMP.FATECTQ0.022\Sysetec\Sysetec\obj\Debug\net9.0-windows\ref\Sysetec.dll
